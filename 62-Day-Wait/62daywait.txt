@@ -1,0 +1,4 @@
+# Plots of 62 day waits for each hospital will be saved here
+#
+#
+#
